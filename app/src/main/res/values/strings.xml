@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Quark</string>
+    <string name="temperature_alert">Temperature Alert</string>
+    <string name="my_alerts">My Alerts</string>
+    <string name="common_alerts">Common Alerts</string>
+    <string name="title" />
+    <string name="content" />
+    <string name="my_servers">My Servers</string>
+    <string name="title_alert_list">Alerts</string>
+    <string name="title_alert_detail">Alert Detail</string>
+    <string name="datacenter">Datacenter</string>
+    <string name="card_slots">Card Slots</string>
+    <string name="temperature">Temperature</string>
+    <string name="mdc_xyp123456">MDC - XYP123456</string>
+    <string name="alerts">Alerts</string>
+    <string name="other_warnings">Other Warnings</string>
+    <string name="unexpected_503s">--Unexpected 503s</string>
+    <string name="rebooting_frequently">--Rebooting frequently</string>
+    <string name="logs_getting_full">--Logs getting full</string>
+</resources>
